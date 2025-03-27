@@ -45,4 +45,4 @@ The print() function is used to display messages and questions to the user.
 
 Conditional execution is managed using if-elif-else statements to check the password and validate the answers provided by the user.
 
-The flow of the program ensures that only users with the correct password can attempt the exam, and they must answer both questions correctly to pass.
+The flow of the program ensures that only users with the correct password can attempt the exam, and they must answer both questions correctly to pass..
